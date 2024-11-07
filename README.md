@@ -3,7 +3,7 @@
 Este es un mapa conceptual interactivo sobre la **Sociedad Digital**.
 
 ## Características:
-- Gráfico interactivo generado con Markmap.
+- Gráfico interactivo.
 - Permite visualizar los conceptos de manera jerárquica.
 
 ## Licencia:
